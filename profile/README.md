@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1650110745571475456/1683562553/1080x360" alt="AloraMC banner">
+<img src="https://s3.zyztem.xyz/aloramc/assets/logos/alorafull.png" alt="AloraMC banner">
 
 # 🙋‍ Hi there, we are AloraMC
 AloraMC is one of the next best Minecraft servers! Check out our Discord at https://discord.gg/aloramc and also check out https://aloramc.com, we are glad to have you find us and hope to see you seen!
